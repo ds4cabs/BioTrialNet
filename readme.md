@@ -2,7 +2,7 @@
 
 **Clinical Trial Simulation & Reanalysis Framework in R**
 
-A teaching and exploratory research toolkit for CABS data science interns to simulate, interrogate, and reanalyze oncology clinical trials using real-world design parameters.
+A teaching and exploratory research toolkit for CABS data science interns to simulate, interrogate, and reanalyze clinical trials using real-world design parameters.
 
 ---
 
